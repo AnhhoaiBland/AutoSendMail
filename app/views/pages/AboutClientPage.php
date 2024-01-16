@@ -11,8 +11,8 @@
             <div class="col-md-6">
                 <div class="block-16">
                     <figure>
-                        <img src="./public/images/blog_1.jpg" alt="Image placeholder" class="img-fluid rounded">
-                        <a href="https://vimeo.com/channels/staffpicks/93951774" class="play-button popup-vimeo"><span class="ion-md-play"></span></a>
+                        <img src="./public/hinhanhpet/aboutdog.png" alt="Image placeholder" class="img-fluid rounded">
+<!--                        <a href="https://vimeo.com/channels/staffpicks/93951774" class="play-button popup-vimeo"><span class="ion-md-play"></span></a>-->
 
                     </figure>
                 </div>

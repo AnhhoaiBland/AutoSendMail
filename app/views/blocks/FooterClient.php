@@ -34,7 +34,7 @@
                 <div class="col-md-6 col-lg-3 mb-4 mb-lg-0">
                     <h3 class="footer-heading mb-4">Promo</h3>
                     <a href="#" class="block-6">
-                        <img src="./public/images/hero_1.jpg" alt="Image placeholder" class="img-fluid rounded mb-4">
+                        <img src="./public/hinhanhpet/dogngau.png"  alt="Image placeholder" class="img-fluid rounded mb-4">
                         <h3 class="font-weight-light  mb-0">Finding Your Perfect Shoes</h3>
                         <p>Promo from  nuary 15 — 25, 2019</p>
                     </a>
@@ -74,15 +74,15 @@
     </footer>
 </div>
 
-  <script src="js/jquery-3.3.1.min.js"></script>
-  <script src="js/jquery-ui.js"></script>
-  <script src="js/popper.min.js"></script>
-  <script src="js/bootstrap.min.js"></script>
-  <script src="js/owl.carousel.min.js"></script>
-  <script src="js/jquery.magnific-popup.min.js"></script>
-  <script src="js/aos.js"></script>
+  <script src="./public/js/jquery-3.3.1.min.js"></script>
+  <script src="./public/js/jquery-ui.js"></script>
+  <script src="./public/js/popper.min.js"></script>
+  <script src="./public/js/bootstrap.min.js"></script>
+  <script src="/js/owl.carousel.min.js"></script>
+  <script src="./public/js/jquery.magnific-popup.min.js"></script>
+  <script src="./public/js/aos.js"></script>
 
-  <script src="js/main.js"></script>
+  <script src="./public/js/main.js"></script>
 
   </body>
 </html>

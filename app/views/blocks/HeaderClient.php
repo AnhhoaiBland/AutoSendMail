@@ -126,9 +126,7 @@
                               <li><a href="#">Menu Three</a></li>
                           </ul>
                       </li>
-                      <li><a href="shop.html">Shop</a></li>
-                      <li><a href="#">Catalogue</a></li>
-                      <li><a href="#">New Arrivals</a></li>
+                      <li><a href="shop">Shop</a></li>
                       <li><a href="contact">Contact</a></li>
                   </ul>
               </div>

@@ -15,7 +15,7 @@
                         <div class="col-lg-6">
 
                             <div class="p-5">
-                                <a href="dashboard">Back</a>
+                                <a href="dasboard">Back</a>
                                 <div class="text-center">
                                     <h1 class="h4 text-gray-900 mb-4">Welcome Back!</h1>
                                 </div>
@@ -51,9 +51,7 @@
                                 <div class="text-center">
                                     <a class="small" href="forgot">Forgot Password?</a>
                                 </div>
-                                <div class="text-center">
-                                    <a class="small" href="SignupClient">Create an Account!</a>
-                                </div>
+
                             </div>
                         </div>
                     </div>
