@@ -11,8 +11,8 @@
             <div class="col-md-6">
                 <div class="block-16">
                     <figure>
-                        <img src="./public/images/blog_1.jpg" alt="Image placeholder" class="img-fluid rounded">
-                        <a href="https://vimeo.com/channels/staffpicks/93951774" class="play-button popup-vimeo"><span class="ion-md-play"></span></a>
+                        <img src="./public/hinhanhpet/aboutdog.png" alt="Image placeholder" class="img-fluid rounded">
+<!--                        <a href="https://vimeo.com/channels/staffpicks/93951774" class="play-button popup-vimeo"><span class="ion-md-play"></span></a>-->
 
                     </figure>
                 </div>
@@ -24,8 +24,7 @@
                 <div class="site-section-heading pt-3 mb-4">
                     <h2 class="text-black">How We Started</h2>
                 </div>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius repellat, dicta at laboriosam, nemo exercitationem itaque eveniet architecto cumque, deleniti commodi molestias repellendus quos sequi hic fugiat asperiores illum. Atque, in, fuga excepturi corrupti error corporis aliquam unde nostrum quas.</p>
-                <p>Accusantium dolor ratione maiores est deleniti nihil? Dignissimos est, sunt nulla illum autem in, quibusdam cumque recusandae, laudantium minima repellendus.</p>
+                <p>Welcome to "Pet World" - a place dedicated to caring for and meeting all the needs of you and your lovely friends. At our store, we are not only a place where you can find high-quality and diverse products for your pets, but also a destination for unique experiences and dedicated service. We pride ourselves on our fast shipping, flexible returns policy, and our team of top dog trainers ready to assist. Please accompany "Pet World" to create unforgettable moments of happiness and connection with your pets.</p>
 
             </div>
         </div>
@@ -49,7 +48,7 @@
                             <p class="block-38-subheading">CEO/Co-Founder</p>
                         </div>
                         <div class="block-38-body">
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae aut minima nihil sit distinctio recusandae doloribus ut fugit officia voluptate soluta. </p>
+                            <p>With many years of experience in the pet industry, Mai Anh is not only the leader but also a source of encouragement and shaping the strategy for the sustainable development of the store.</p>
                         </div>
                     </div>
                 </div>
@@ -63,7 +62,7 @@
                             <p class="block-38-subheading">Co-Founder</p>
                         </div>
                         <div class="block-38-body">
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae aut minima nihil sit distinctio recusandae doloribus ut fugit officia voluptate soluta. </p>
+                            <p>Tuan, an expert in business and advertising, ensures that we not only provide quality products but also create unique shopping experiences that attract customers. </p>
                         </div>
                     </div>
                 </div>
@@ -77,7 +76,7 @@
                             <p class="block-38-subheading">Marketing</p>
                         </div>
                         <div class="block-38-body">
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae aut minima nihil sit distinctio recusandae doloribus ut fugit officia voluptate soluta. </p>
+                            <p>Giang is responsible for ensuring that our services not only meet but exceed customer expectations, creating a secure and comfortable shopping environment. </p>
                         </div>
                     </div>
                 </div>
@@ -91,42 +90,9 @@
                             <p class="block-38-subheading">Sales Manager</p>
                         </div>
                         <div class="block-38-body">
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae aut minima nihil sit distinctio recusandae doloribus ut fugit officia voluptate soluta. </p>
+                            <p>Hoa is responsible for coming up with creative ideas and unique content, helping to increase interaction and connection between the store and the pet-loving community.</p>
                         </div>
                     </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<div class="site-section site-section-sm site-blocks-1 border-0 aos-init aos-animate" data-aos="fade">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-6 col-lg-4 d-lg-flex mb-4 mb-lg-0 pl-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="">
-                <div class="icon mr-4 align-self-start">
-                    <span class="icon-truck"></span>
-                </div>
-                <div class="text">
-                    <h2 class="text-uppercase">Free Shipping</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus at iaculis quam. Integer accumsan tincidunt fringilla.</p>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4 d-lg-flex mb-4 mb-lg-0 pl-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-                <div class="icon mr-4 align-self-start">
-                    <span class="icon-refresh2"></span>
-                </div>
-                <div class="text">
-                    <h2 class="text-uppercase">Free Returns</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus at iaculis quam. Integer accumsan tincidunt fringilla.</p>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4 d-lg-flex mb-4 mb-lg-0 pl-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
-                <div class="icon mr-4 align-self-start">
-                    <span class="icon-help"></span>
-                </div>
-                <div class="text">
-                    <h2 class="text-uppercase">Customer Support</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus at iaculis quam. Integer accumsan tincidunt fringilla.</p>
                 </div>
             </div>
         </div>

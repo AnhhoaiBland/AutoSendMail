@@ -86,7 +86,7 @@
                                   </li>
                                   <li><a href="#"><span class="icon icon-heart-o"></span></a></li>
                                   <li>
-                                      <a href="cart.html" class="site-cart">
+                                      <a href="cart" class="site-cart">
                                           <span class="icon icon-shopping_cart"></span>
                                           <span class="count">2</span>
                                       </a>
@@ -126,9 +126,7 @@
                               <li><a href="#">Menu Three</a></li>
                           </ul>
                       </li>
-                      <li><a href="shop.html">Shop</a></li>
-                      <li><a href="#">Catalogue</a></li>
-                      <li><a href="#">New Arrivals</a></li>
+                      <li><a href="shop">Shop</a></li>
                       <li><a href="contact">Contact</a></li>
                   </ul>
               </div>
