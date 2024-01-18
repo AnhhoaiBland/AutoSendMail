@@ -12,24 +12,24 @@
                 <h2 class="h3 mb-3 text-black">Get In Touch</h2>
             </div>
             <div class="col-md-7">
-
                 <form action="#" method="post">
-
                     <div class="p-3 p-lg-5 border">
                         <div class="form-group row">
-                            <div class="col-md-6">
-                                <label for="c_fname" class="text-black">First Name <span class="text-danger">*</span></label>
-                                <input type="text" class="form-control" id="c_fname" name="c_fname">
-                            </div>
-                            <div class="col-md-6">
-                                <label for="c_lname" class="text-black">Last Name <span class="text-danger">*</span></label>
-                                <input type="text" class="form-control" id="c_lname" name="c_lname">
+                            <div class="col-md-12">
+                                <label for="c_name" class="text-black">Name <span class="text-danger">*</span></label>
+                                <input type="text" class="form-control" id="name" name="name" placeholder="">
                             </div>
                         </div>
                         <div class="form-group row">
                             <div class="col-md-12">
                                 <label for="c_email" class="text-black">Email <span class="text-danger">*</span></label>
                                 <input type="email" class="form-control" id="c_email" name="c_email" placeholder="">
+                            </div>
+                        </div>
+                        <div class="form-group row">
+                            <div class="col-md-12">
+                                <label for="c_phone" class="text-black">Phone <span class="text-danger">*</span></label>
+                                <input type="number" class="form-control" id="c_phone" name="c_phone" placeholder="">
                             </div>
                         </div>
                         <div class="form-group row">
@@ -47,7 +47,7 @@
                         </div>
                         <div class="form-group row">
                             <div class="col-lg-12">
-                                <input type="submit" class="btn btn-primary btn-lg btn-block" value="Send Message">
+                                <input name="SendContact" type="submit" class="btn btn-primary btn-lg btn-block" value="Send Message">
                             </div>
                         </div>
                     </div>
